@@ -12,7 +12,7 @@ def toadstool
   puts danger
 end
 
-def danger 
+def link 
   puts "It's Dangerous To Go Alone! Take This."
 end
 
